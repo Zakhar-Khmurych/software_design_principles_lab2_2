@@ -39,11 +39,13 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="Model\Cell.cs" />
+        <Compile Include="Model\Grid.cs" />
+        <Compile Include="Model\IRules.cs" />
+        <Compile Include="Model\Player.cs" />
+        <Compile Include="Model\RuleSet.cs" />
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
-    </ItemGroup>
-    <ItemGroup>
-      <Folder Include="Model" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
     <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

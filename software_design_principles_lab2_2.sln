@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "software_design_principles_lab2_2", "software_design_principles_lab2_2\software_design_principles_lab2_2.csproj", "{C2B73D8B-7EE0-43FC-AEF8-5D7F6A657483}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "othello", "othello\othello.csproj", "{899BF115-8AE4-4244-976A-CAEB298D6619}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{C2B73D8B-7EE0-43FC-AEF8-5D7F6A657483}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2B73D8B-7EE0-43FC-AEF8-5D7F6A657483}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2B73D8B-7EE0-43FC-AEF8-5D7F6A657483}.Release|Any CPU.Build.0 = Release|Any CPU
+		{899BF115-8AE4-4244-976A-CAEB298D6619}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{899BF115-8AE4-4244-976A-CAEB298D6619}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{899BF115-8AE4-4244-976A-CAEB298D6619}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{899BF115-8AE4-4244-976A-CAEB298D6619}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
